@@ -1,6 +1,6 @@
 # Wordle-solver
 
-A simple Wordle that run in Terminal.
+A simple Wordle that runs in Terminal.
 
 ## Steps
 
